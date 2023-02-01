@@ -4,7 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=mclotos&label=Просмотров%20профиля&color=brightgreen&style=plastic" alt="McLotos" />
 <img src="https://github-profile-trophy.vercel.app/?username=mclotos" alt="mclotos" />
-<img width="64px" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mclotos&show_icons=true&locale=en&layout=compact&theme=merko" alt="mclotos" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mclotos&show_icons=true&locale=en&theme=merko" alt="mclotos" />
 
@@ -26,6 +25,8 @@
 * ## Еще что-то помню про <a href="https://google.com/search/?q=Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="24px" height="24px"/></a>, <a href="https://google.com/search/?q=Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="24px" height="24px"/></a>, <a href="https://google.com/search/?q=NPM"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="24px" height="24px"/></a> и <a href="https://google.com/search/?q=SASS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="24px" height="24px"/></a>
 * ## От скуки могу заняться рефакторингом, декомпозированием, оптимизацией <a href="https://google.com/search/?q=MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24px" height="24px"/></a> и <a href="https://google.com/search/?q=MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24px" height="24px"/></a>
 * ## Последнее время подсел на <a href="https://google.com/search/?q=Vue"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24px" height="24px"/></a> и даже написал свою альтернативу <a href="https://google.com/search/?q=Vuetify"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" width="24px" height="24px"/></a>. Ну а чего они так долго пилят обновление под Vue3?
+
+Да, совсем забыл... Я же еще умею готовить <a href="https://google.com/search/?q=Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36px" height="36px"/></a>
 
 В общем могу копать, могу не копать, могу сделать чтобы кто-то копал.
  По всем вопросам <a href="https://t.me/mclotos"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/32px-Telegram_logo.svg.png" alt="mclotos" /> </a>
