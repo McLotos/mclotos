@@ -3,8 +3,7 @@
 ⚡ Fun facts:
 
 <img src="https://komarev.com/ghpvc/?username=mclotos&label=Просмотров%20профиля&color=brightgreen&style=plastic" alt="McLotos" />
-<img src="https://github-profile-trophy.vercel.app/?username=mclotos" alt="mclotos" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mclotos&show_icons=true&locale=en&layout=compact&theme=merko&count_private=true" alt="mclotos" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=mclotos&theme=darkhub&column=3&no-frame=true" alt="mclotos" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mclotos&show_icons=true&locale=en&theme=merko&count_private=true" alt="mclotos" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclotos&langs_count=8&theme=merko&count_private=true" alt="mclotos"/>
 
