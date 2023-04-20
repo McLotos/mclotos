@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 ⚡ Fun facts:
-
 <img src="https://komarev.com/ghpvc/?username=mclotos&label=Просмотров%20профиля&color=brightgreen&style=plastic" alt="McLotos" />
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=mclotos&theme=darkhub&column=3&no-frame=true&no-bg" alt="mclotos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mclotos&show_icons=true&locale=en&bg_color=0D1117&title_color=C9CBD2&text_color=8B9495&icon_color=FF79C6&count_private=true&include_all_commits=true&count_private=true&ring_color=FF79C6" alt="mclotos" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclotos&langs_count=8&theme=darcula&count_private=true&bg_color=0D1117&title_color=C9CBD2&text_color=8B9495&icon_color=FF79C6&include_all_commits=true&count_private=true" alt="mclotos"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mclotos&show_icons=true&locale=en&bg_color=0D1117&title_color=C9CBD2&text_color=8B9495&icon_color=FF79C6&count_private=true&include_all_commits=true&count_private=true&ring_color=FF79C6" alt="mclotos" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclotos&langs_count=8&theme=darcula&count_private=true&bg_color=0D1117&title_color=C9CBD2&text_color=8B9495&icon_color=FF79C6&include_all_commits=true&count_private=true" alt="mclotos"/> <img src="https://github-profile-trophy.vercel.app/?username=mclotos&theme=darkhub&column=3&no-frame=true&no-bg" alt="mclotos" />
+
+<hr>
 
 * ## Моя ОС <a target="_blank" href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="24px" height="16px"/></a>.
 * ## Мой браузер <a target="_blank" href="https://chrome.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="24px" height="16px" /></a>.
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</p>
